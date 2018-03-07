@@ -1,1 +1,16 @@
-abc abc
+
+1. A Boolean value is either true or false. In Python, the two Boolean values are True and False (the capitalization must be exactly as
+shown), and the Python type is bool.
+   Ex. 5 == 6 >> False
+       5 == (1 + 4) >> True
+      j = "hel"
+      j + "lo" == "hello" >> True
+3. Nested conditionals are the conditionals that could be nested within each other.
+   Ex. if x < 20:
+          ....
+       else:
+          if x < 30:
+           .......
+          else:
+           .......
+2. A flowchart is a chart that shows the conditions of one program.
